@@ -106,7 +106,3 @@ See [`examples/`](./examples) for generated quizzes on:
 - <e.g. export quiz to PDF or share link>
 - <e.g. store quiz history and employee scores>
 - <e.g. fact-check step that verifies each answer against sources>
-
-## Author
-
-<DerrylPriyambodo>
