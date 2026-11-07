@@ -1,0 +1,1 @@
+Some questions contain specific claims that cannot be verified: {details}. Rewrite ONLY those questions as conceptual questions that do not mention years, percentages, named data sources, surveys, announcements, or news-style claims. Keep the other questions unchanged. Return the full quiz as valid JSON only, following the exact schema.

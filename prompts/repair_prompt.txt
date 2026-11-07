@@ -1,0 +1,1 @@
+Your previous output was invalid: {error_message}. Return the corrected quiz as valid JSON only, following the exact schema. Do not add any explanation or markdown.

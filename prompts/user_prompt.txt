@@ -1,0 +1,3 @@
+Create {n} multiple-choice questions about the topic: "{topic}".
+Difficulty: {difficulty}.
+Language: {language}.
