@@ -4,8 +4,8 @@ An AI-powered tool that generates multiple-choice quizzes for property-industry 
 
 Built for the 99 Group Section 2 (Tool/Workflow Building) assignment, Option C.
 
-- **Live demo:** <PASTE DEMO LINK HERE, if any>
-- **Repo:** <PASTE GITHUB LINK HERE>
+- **Live demo:** https://derrylpriyambodo24-employee-quiz-builder-app-teupmp.streamlit.app/
+- **Repo:** https://github.com/derrylpriyambodo24/employee-quiz-builder/
 
 ## What it does
 
@@ -109,4 +109,4 @@ See [`examples/`](./examples) for generated quizzes on:
 
 ## Author
 
-<Your name> — <Your university/contact>
+<DerrylPriyambodo>
